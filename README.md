@@ -1,3 +1,1 @@
-# lmao
-First repository
-Commit 69
+Hello, I have risen from the ashes
